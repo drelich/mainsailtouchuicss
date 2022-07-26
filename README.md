@@ -1,6 +1,5 @@
 # Mainsail Touch UI CSS update
 
-## About
 This is a simple custom theme I created because I needed bigger buttons for my fat sausages and bigger text for my aging eyes in order to use Mainsail on my ol' trusty iPad mini, which I fixed above my printer. 
 
 In order to achieve a streamlined dashboard experience, I did remove some of the options (values for extruder and hotend, for example). I didn't use them, anyway.
