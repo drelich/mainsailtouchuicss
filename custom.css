@@ -12,7 +12,7 @@
   }
 
   .v-subheader, .v-card__text, td {
-    font-size: 1.2rem !important;
+    font-size: 1.1rem !important;
   }
 
   .v-input__slider .v-input__control {
@@ -62,8 +62,17 @@
     box-shadow: 0px 25px 25px rgb(0 0 0) !important;
   }
 
-  td.name {
+  td.name, th.name {
+    display: none !important;
         white-space: nowrap !important;
   }
 
+  ._slider-input, ._temp-input {
+    max-width: 7rem !important;
+  }
+
+  .temperature-panel-table .v-icon__svg {
+    width: 34px;
+    height: 34px;
+  }
 }
